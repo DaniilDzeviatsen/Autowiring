@@ -14,7 +14,7 @@ public class AnimalsCage {
     @Autowired
     private Timer timer;
 
-    public Timer getTimer(){
+    public Timer getTimer() {
         return timer;
     }
 
